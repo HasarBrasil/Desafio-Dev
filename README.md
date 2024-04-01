@@ -49,4 +49,4 @@ Para ajudar você nesse desafio deixamos abaixo duas ferramentas que podem lhe a
 
 ## 🚀 Como o desafio deve ser entregue
 
-Após a conclusão dos desafio, o link do repositório deve ser enviado para `douglas.c@hasarbrasil.com.br` assim a nossa equipe técnica poderá avaliar a sua resolução.
+Após a conclusão do desafio, o link do repositório deve ser enviado para `douglas.c@hasarbrasil.com.br` assim a nossa equipe técnica poderá avaliar a sua resolução.
